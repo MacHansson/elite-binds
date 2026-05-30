@@ -8,15 +8,15 @@ There are three role specific modifier buttons.  ![A](images/a_s.jpg) is for com
 
 ### Bindings
 
-![System bindings](images/xbox/system.png)
+![System bindings](images/xbox/XBOX Controller Binds SYSTEM SMALL Image A5.png)
 
-![Supercruise Bindings](images/xbox/supercruise.png)
+![Supercruise Bindings](images/xbox/XBOX Controller Binds SUPERCRUSE SMALL Image A5.png)
 
-![Landing overrides](images/xbox/landing.png)
+![Landing overrides](images/xbox/XBOX Controller Binds LANDING SMALL Image A5.png)
 
-![Buggy](images/xbox/buggy.png)
+![Buggy](images/xbox/XBOX Controller Binds BUGGY SMALL Image A5.png)
 
-![FSS](images/xbox/fss.png)
+![FSS](images/xbox/XBOX Controller Binds FSS SMALL Image A5.png)
 
 ## Installing
 
